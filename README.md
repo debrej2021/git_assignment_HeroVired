@@ -7,3 +7,5 @@ Added Aditya-rgb ( Aditya ) as Collaborator
 
 Created a new branch feature\sqrt
 Merged with Main
+
+large binary file example_large_bin.bin
