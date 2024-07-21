@@ -16,15 +16,9 @@ return a * b
 
 def divide(self, a, b):
 
-<<<<<<< HEAD
 if b == 0:
 
 raise ValueError("Cannot divide by zero.")
-=======
- if b == 0:
-
- raise ValueError("Cannot divide by zero.")
->>>>>>> feature/sqrt
 
 return a / b
 
